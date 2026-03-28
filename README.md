@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Python
+2. Gráfico selecionado: <img width="898" height="428" alt="image" src="https://github.com/user-attachments/assets/96eee199-2b39-4efc-a1e9-bbe4c9cf0e0a" />
+
+3. Explicação: O gráfico mostra uma mudança bem clara no repositório TheAlgorithms/Python: ao longo do tempo, os parâmetros genéricos vão sendo substituídos por parâmetros com tipos definidos usando type hinting. Essa transição fica evidente principalmente entre 2022 e 2023, quando a quantidade de parâmetros tipados ultrapassa a de identificadores comuns e continua crescendo de forma consistente até 2026.
+
+Mesmo sendo uma linguagem de tipagem dinâmica, onde não é obrigatório declarar tipos, o projeto opta por usar as anotações da PEP 484 como uma forma de tornar o código mais claro e seguro. Na prática, isso funciona como uma camada extra de documentação.
+
+Em um repositório voltado para algoritmos e estruturas de dados, essa escolha faz bastante sentido. O uso de tipos ajuda ferramentas de análise estática a identificar possíveis erros mais cedo e também facilita muito a vida de quem lê o código, já que fica mais fácil entender quais são as entradas esperadas pelas funções. No fim, isso deixa a base mais organizada, profissional e fácil de manter.
 
 
 
